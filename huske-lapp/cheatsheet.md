@@ -44,8 +44,8 @@
 - apt pakeinhole for å instaler det 
 - lsa viser alle mapper og filger som er inni en mappe som er sulte 
 # github
-- git clone
-- git opp  er alle i en 
+- git opp
+- git clone er alle i en 
 - git init
 - git add .   føre med alle mappen du vil legg til 
 - git commit -m "første commit"   lagrede endringerne i 
